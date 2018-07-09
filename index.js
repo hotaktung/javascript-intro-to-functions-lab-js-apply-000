@@ -19,4 +19,6 @@ function sayHiToGrandma(ss) {
   return "YES INDEED!"
   if (ss.toLowerCase() === ss)
   return "I can't hear you!"
+  else 
+  return "I love you, too."
 }
