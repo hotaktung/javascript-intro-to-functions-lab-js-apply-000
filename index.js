@@ -15,7 +15,7 @@ function logWhisper(ss) {
 }
 
 function sayHiToGrandma(ss) {
-  var UPPER = "HELLO!"
-  return 
+  var UPPER = "HELLO"
+  return "YES INDEED!"
   
 }
