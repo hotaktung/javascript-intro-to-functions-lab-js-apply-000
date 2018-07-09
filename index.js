@@ -8,5 +8,5 @@ function whisper(ss) {
 
 function logShout(ss) {
   return ss.toUpperCase()
-  console.log
+  console.log()
 }
