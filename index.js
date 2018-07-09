@@ -7,6 +7,7 @@ function whisper(ss) {
 }
 
 function logShout(ss) {
+  var ss = 
   return ss.toUpperCase()
   console.log()
 }
