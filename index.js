@@ -16,7 +16,7 @@ function logWhisper(ss) {
 
 function sayHiToGrandma(ss) {
   var UPPER = "HELLO"
-  UPPER.toUpperCase() === UPPER
+  if .toUpperCase() === UPPER
   return "YES INDEED!"
   var LOWER = "hello"
   LOWER.toLowerCase() === LOWER
